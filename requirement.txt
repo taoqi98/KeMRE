@@ -1,0 +1,5 @@
+sklearn
+tensorflow-gpu == 1.13.0
+keras == 2.2.4
+keras-bert == 0.84.0
+nltk == 3.5
